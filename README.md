@@ -1,2 +1,2 @@
-# category6to11
-Respostas dos exercícios das categorias 6 até 11
+# category6to9
+Respostas dos exercícios das categorias 6 até 9
